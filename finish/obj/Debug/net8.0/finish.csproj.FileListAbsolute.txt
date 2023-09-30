@@ -1,0 +1,15 @@
+E:\finish\finish\bin\Debug\net8.0\finish.exe
+E:\finish\finish\bin\Debug\net8.0\finish.deps.json
+E:\finish\finish\bin\Debug\net8.0\finish.runtimeconfig.json
+E:\finish\finish\bin\Debug\net8.0\finish.dll
+E:\finish\finish\bin\Debug\net8.0\finish.pdb
+E:\finish\finish\obj\Debug\net8.0\finish.GeneratedMSBuildEditorConfig.editorconfig
+E:\finish\finish\obj\Debug\net8.0\finish.AssemblyInfoInputs.cache
+E:\finish\finish\obj\Debug\net8.0\finish.AssemblyInfo.cs
+E:\finish\finish\obj\Debug\net8.0\finish.csproj.CoreCompileInputs.cache
+E:\finish\finish\obj\Debug\net8.0\finish.sourcelink.json
+E:\finish\finish\obj\Debug\net8.0\finish.dll
+E:\finish\finish\obj\Debug\net8.0\refint\finish.dll
+E:\finish\finish\obj\Debug\net8.0\finish.pdb
+E:\finish\finish\obj\Debug\net8.0\finish.genruntimeconfig.cache
+E:\finish\finish\obj\Debug\net8.0\ref\finish.dll
